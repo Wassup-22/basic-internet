@@ -1,0 +1,175 @@
+
+
+
+body {
+    background-color: #151D21; 
+}
+
+
+header {
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    
+}
+ 
+nav {
+    background-color: gray;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 50px;
+
+
+}
+
+main {
+    height: 400px; 
+    text-align: center; 
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px; 
+    font-size: 20px;
+    
+}
+
+footer {
+    text-align: left;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+h1 {
+    font-size: 75px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50px;
+
+}
+
+p {
+    font-size:18;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#thing {
+    margin-top: 300px;
+    text-align: center;
+    margin-left: 230px;
+}
+
+.intro1 {
+    font-size: 30px;
+}
+
+
+.main2 {
+    height: 20px;
+    font-size: 23px;
+    padding-top: 100px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    padding-top: 0px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    position: auto;
+}
+
+.intro {
+    text-align: center;
+}
+
+.main3{
+    margin-top: 500px;
+    height: 20px;
+    font-size: 23px;
+    padding-bottom: 200px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    position: auto;
+    
+}
+
+.img2 {
+    height: 200px;
+    position:absolute;
+    margin-top: 250px;
+    margin-left: 400px;
+    margin-right: 80px;
+    margin-bottom: 100px;
+}
+
+
+.web1 {
+    height: 300px;
+    margin-left:250px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+
+.p2 {
+   
+    font-size: 23px;
+    
+    padding-left: 0;
+    padding-right: 0;
+    text-indent: 50px;
+
+    position: auto;
+}
+
+.img3 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.p2s {
+    margin-bottom: 100px;
+    font-size: 23px;
+    position: auto;
+    margin-top: 50px;
+    text-indent: 50px;
+}
+
+
+.title3{
+    text-align: center;
+    font-size: 60px;
+}
+
+.list {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+.page2 {
+    font-size: 23px;
+}
+
+.tips {
+    font-size: 65px;
+
+}
+
